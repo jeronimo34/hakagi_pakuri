@@ -1,0 +1,11 @@
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\hakagi_pakuri.exe.config
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\hakagi_pakuri.exe
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\hakagi_pakuri.pdb
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\obj\Debug\hakagi_pakuri.csproj.CoreCompileInputs.cache
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\obj\Debug\hakagi_pakuri.exe
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\obj\Debug\hakagi_pakuri.pdb
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\config.json
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\obj\Debug\hakagi_pakuri.csproj.CopyComplete
+C:\Users\vonk0z\Documents\Visual Studio 2017\Projects\hakagi_pakuri\hakagi_pakuri\obj\Debug\hakagi_pakuri.csprojAssemblyReference.cache

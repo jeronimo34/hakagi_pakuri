@@ -1,0 +1,2 @@
+ALTER TABLE Container ADD CONSTRAINT FK_Container_ParentId FOREIGN KEY (ParentId) REFERENCES CurrentStatus(MfgOrderId);
+ALTER TABLE CurrentStatus ADD CONSTRAINT FK_CurrentStatus_ContainerId FOREIGN KEY (ContainerId) REFERENCES Container(ContainerId);

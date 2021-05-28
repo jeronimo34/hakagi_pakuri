@@ -1,0 +1,5 @@
+{
+  "UserAttribute.ParentId": [ "MfgOrderId", "ContainerId" ],
+  "Container.ParentId": [ "MfgOrderId" ],
+  "A_EmployeeGroupEntries.EntriesId": [ "EmployeeId" ]
+}
